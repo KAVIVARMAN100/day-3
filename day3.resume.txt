@@ -1,0 +1,16 @@
+{
+    "biodata": {
+    "name": "kavivarman j",
+    "email": "santhoshkavi@gmail.com",
+    "phone": "8778211662",
+    "degree": "mechanical engineering",
+    "dob":"16 jan 1997"
+    
+   "location": {
+    "address": "1-amman nagar,pattanam",
+    "postalCode": "637408",
+    "city": "namakkal",
+    "region": "tamilnadu"
+    },
+    },
+    

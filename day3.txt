@@ -1,0 +1,28 @@
+var person=[{
+    "name":"varman",
+    "gender":"male",
+    "age":"27",
+    
+},
+{
+    "name":"kavi",
+    "gender":"Male",
+    "age":"25",
+    
+    
+    
+}
+];
+
+//Using For loop
+for(var i=0;i<person.length;i++){
+   
+    console.log("Name:"+(person[i].name)+"."+" age:"+(person[i].age)+" from:"+(person[i].gender));
+}
+
+// Using For in loop
+
+for(var a in person){
+   
+    console.log(a+") "+("Name: ")+(person[a].name)+"."+" from "+(person[a].gender));
+}
